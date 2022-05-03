@@ -1,0 +1,13 @@
+.btn-addunit {
+    border: 1px solid #ededed;
+    background: #44a2d2;
+    color: #fff;
+    padding: 7px;
+}
+.logo-lg img {
+    height: 65px;
+    width: 65px;
+}
+.companyname {
+    color: #fff;
+}
